@@ -106,7 +106,7 @@ React 19, TanStack Start, Tailwind CSS v4, Zustand persist, date-fns, Lucide.
 ## Run locally
 
 ```bash
-git clone https://github.com/Gitersg/gst-invoicer.git
+git clone https://github.com/shrindev/gst-invoicer.git
 cd gst-invoicer
 npm install
 npm run dev
